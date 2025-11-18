@@ -535,4 +535,22 @@ footer .credit a{
   html {
     font-size: 55%;
   }
+
+  .hero{
+   background-image: url(../images/background\ mobile.jpg);
+   height: 100rem;
+  }
+  .hero .content{
+    position: absolute;
+   top: 12rem;
+  }
+  .hero .content h1{
+    line-height: 1.2;
+    font-size: 4.9rem;
+    margin-top: 1rem;
+  }
+  .hero .content p{
+    font-weight: 300;
+  }
+}
 }
