@@ -175,7 +175,7 @@ color: var(--primary);
   /* warna terakhir sesuai background kamu (#f6f3db contoh) */
   background: linear-gradient(
     rgba(247,243,207,0) 8%,
-    #f6f3db 50%
+    var(--bgsecound) 50%
   );
   
   
